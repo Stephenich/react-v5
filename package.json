@@ -33,5 +33,13 @@
     "prettier": "^2.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
-  }
+  },
+  "browserlist": [
+    "latest 2 Chrome versions",
+    "latest 2 ChromeAndriod versions",
+    "latest 2 Firefox versions",
+    "latest 2 FirefoxAndriod versions",
+    "latest 2 Safari versions",
+    "latest 2 iOS versions"
+  ]
 }
